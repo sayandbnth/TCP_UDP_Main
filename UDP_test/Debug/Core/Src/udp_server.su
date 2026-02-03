@@ -1,0 +1,4 @@
+../Core/Src/udp_server.c:23:13:uart_print	16	static
+../Core/Src/udp_server.c:31:13:udp_receive_callback	184	static
+../Core/Src/udp_server.c:67:6:udp_server_init	8	static
+../Core/Src/udp_server.c:85:6:udp_send_ack	24	static

@@ -1,0 +1,4 @@
+../Core/Src/TCP.c:44:6:tcp_server_init	16	static
+../Core/Src/TCP.c:86:14:tcp_accept_callback	24	static
+../Core/Src/TCP.c:110:14:tcp_recv_callback	48	static
+../Core/Src/TCP.c:161:13:tcp_error_callback	16	static

@@ -1,0 +1,5 @@
+../Core/Src/udpServer.c:70:13:uartPrint	16	static
+../Core/Src/udpServer.c:97:13:udpReceiveCallback	184	static
+../Core/Src/udpServer.c:154:6:udpServerInit	8	static
+../Core/Src/udpServer.c:181:6:udpSendAck	24	static
+../Core/Src/udpServer.c:215:6:udpServerClientConnected	4	static

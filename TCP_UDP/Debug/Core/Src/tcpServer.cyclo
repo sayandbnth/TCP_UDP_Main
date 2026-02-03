@@ -1,0 +1,8 @@
+../Core/Src/tcpServer.c:61:13:uartPrint	2
+../Core/Src/tcpServer.c:75:13:tcpCloseClient	2
+../Core/Src/tcpServer.c:101:14:tcpReceiveCallback	2
+../Core/Src/tcpServer.c:153:13:tcpErrorCallback	1
+../Core/Src/tcpServer.c:173:14:tcpAcceptCallback	1
+../Core/Src/tcpServer.c:211:6:tcpServerInit	5
+../Core/Src/tcpServer.c:249:6:tcpSendAck	5
+../Core/Src/tcpServer.c:274:6:tcpServerClientConnected	1

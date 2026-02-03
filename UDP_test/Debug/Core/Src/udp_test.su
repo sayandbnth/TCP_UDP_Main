@@ -1,0 +1,2 @@
+../Core/Src/udp_test.c:14:13:udp_rx_callback	32	static
+../Core/Src/udp_test.c:44:6:udp_test_init	8	static
